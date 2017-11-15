@@ -1,3 +1,3 @@
 # the-savanna
-For our website, The Savanna.
+This is the readme.txt file for The Savanna. (The school store name = "The Savanna.")
 
