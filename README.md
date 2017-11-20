@@ -25,4 +25,4 @@ You send this in to order what you like.
 
 -------
 
-The CSS files are embedded in th HTML files by using the <style> tag.
+The CSS files are embedded in the HTML files by using the <style> tag.
