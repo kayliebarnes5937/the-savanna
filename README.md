@@ -5,7 +5,7 @@ This is the readme.txt file for The Savanna. (The school store name = "The Savan
 
 There are six HTML files put together for this website. Those six are named:
 
-About: General information about the school store.
+<b>About</b>: General information about the school store.
 
 Accessories: Accessory items in the store.
 
